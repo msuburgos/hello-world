@@ -10,7 +10,7 @@ quantity=integers[1,20]
 print(quantity)
 meat=strings('chicken','ground_beef',veggie)
 print('meat)
-add_Ingredients= strings(Olives, tomatoes, cucumber,' 'onions', 'lettuce, spinach', 'black beans', 'sour cream', 'queso blanco',
+add_Ingredients= strings('black_olives', 'tomatoes','jalapeño', 'cucumber',' 'onions', 'lettuce', 'spinach', 'black_beans','sour cream', 'queso blanco')
 print(add_ingredients:,'1,4,)
 I_am_hunry=string('hurry_up')
 print(I_am_hungry)
