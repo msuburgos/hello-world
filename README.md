@@ -1,16 +1,16 @@
 # hello-world
-Adventure=Nacho_World
-Like=Input()
-Input('Nachos)
+def Adventure_Nacho_world
+   Like=Input('Adventure_Nacho_World)
+Input(' Adventure_Nacho_World')
     print('yes','no')
-Input('spicy', OR 'no_Spicy')
-print('spicy','no_spicy')
+Input('spicy_world', OR 'no')
+print('spicy_world','no_spicy')
 Like=input('yes','no')
 quantity=integers[1,20]
 print(quantity)
-meat=strings('chicken','ground_beef',veggie)
+Robomeat=strings('chicken','ground_beef',veggie)
 print('meat)
-add_Ingredients= strings('black_olives', 'tomatoes','jalapeño', 'cucumber',' 'onions', 'lettuce', 'spinach', 'black_beans','sour cream', 'queso blanco')
-print(add_ingredients:,'1,4,)
+topping_attack= strings('black_olives', 'tomatoes','jalapeño', 'cucumber',' 'onions', 'lettuce', 'spinach', 'black_beans','sour cream', 'queso blanco')
+print(topping_attack:,'1,10')
 I_am_hunry=string('hurry_up')
 print(I_am_hungry)
