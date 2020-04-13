@@ -1,9 +1,9 @@
 # Nacho_World
-def__init__('Go Class', 'Spicy_Nachos')
-  Macho_Spicy= Yes
-  Mild= maybe
-  No_Spicy= No
-print('hot_spicy', 'Mild','Np_spicy)
+def__init__('go class', 'spicy_nachos')
+  macho_picy= Yes
+  mild= maybe
+  no_spicy= no
+print('hot_spicy', 'mild','no_spicy)
 # direction
 def _str_(direction to waterfall)
 if left is orange_waterfall, Up yellow__waterfall, down_brown_waterfall,then right tan_waterfall
@@ -16,7 +16,6 @@ print('meat_attack)
 #Topping Splash on you if fail 
 If_topping=="volcano splash bowl"
 Splash_Bowl_Ingredients= strings('black_olives', 'tomatoes','jalapeño', 'cucumber',' 'onions', 'lettuce', 'spinach', 'black_beans','sour cream', 'queso blanco')
-print(add_ingredients:,'1,4,)
-I_am_hunry=string('hurry_up')
-print(I_am_hungry)
+print(Splash_Bowl_Ingredients')
+
 
